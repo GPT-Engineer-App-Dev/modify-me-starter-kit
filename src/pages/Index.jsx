@@ -13,9 +13,6 @@ const Index = () => {
           <li>Integrate with backend services</li>
         </ul>
       </div>
-      <footer className="bg-red-500 text-white py-4 text-center">
-        <p>This is a red footer</p>
-      </footer>
     </Layout>
   );
 };
